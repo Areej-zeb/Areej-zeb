@@ -1,94 +1,103 @@
 # Areej Zeb
 
-Cybersecurity undergraduate focused on **threat detection, vulnerability research, and security automation**, with a growing emphasis on **AI-driven security systems**.  
-Hands-on experience building defensive security tools, performing API and network security testing, and developing scalable detection pipelines.
+Cybersecurity · Security Automation · AI for Cyber Defense
+
+LinkedIn: https://www.linkedin.com/in/areejzeb  
+Email: areejzeb04@gmail.com  
+GitHub: https://github.com/Areej-zeb
 
 ---
 
-## 🛡️ Core Focus Areas
+## Overview
 
-- Enterprise Threat Detection & Intrusion Detection Systems (IDS)
-- Vulnerability Assessment & Penetration Testing (Web & API Security)
-- AI/ML for Vulnerability Prioritization and Security Automation
-- Distributed Systems & DDoS Detection
-- Security Tooling, Automation, and DevSecOps
+I focus on building defensive security systems, automating security workflows, and applying AI to practical cybersecurity problems.
+
+My interests span threat detection, API security, vulnerability assessment, and scalable detection pipelines, with an emphasis on clean, auditable implementations.
 
 ---
 
-## 🚀 Featured Projects
+## Security Domains
 
-### **Aegis – Enterprise Threat Detection & Security Advisory Platform**
-- Modular IDS engine for network traffic analysis and attack pattern detection  
-- Real-time alerting and severity-based dashboard  
-- Integrated attack simulation and security advisory logic  
-- Focused on scalable, enterprise-style defensive security architecture  
+### Defensive Security
+- Intrusion Detection Systems (IDS)
+- Network Traffic Analysis
+- Threat Detection and Alerting
+- Security Monitoring (SIEM concepts)
+- Incident Analysis
 
-**Tech:** Python, Snort concepts, Network Analysis, Dashboarding
-
----
-
-### **AI-Driven Vulnerability Prioritization & Remediation System**
-- Automated vulnerability analysis using CVE data and NLP models (BERT / SBERT)
-- Integrated Nmap and OpenVAS scans for asset discovery
-- ML-based severity classification with automated remediation suggestions using T5/BART
-- CLI and GUI for visualization and prioritization
-
-**Tech:** Python, NLP, Machine Learning, Nmap, OpenVAS
+### Offensive and Assessment
+- Vulnerability Assessment and Penetration Testing
+- API Security (OWASP API Top 10)
+- Authentication and OTP Abuse Testing
+- Rate Limiting and Enumeration Analysis
+- Security Audits and Compliance Exposure
 
 ---
 
-### **Distributed DDoS Detection using MPI**
-- Multi-node DDoS detection system for high-volume simulated traffic
-- Anomaly-based detection to identify traffic spikes and malicious packet behavior
-- Designed for scalability and performance testing in distributed environments
+## AI in Cybersecurity
 
-**Tech:** MPI, Networking, Anomaly Detection, Distributed Systems
-
----
-
-### **OWASP API Vulnerability Lab**
-- Practical API security testing environment
-- Explores OWASP API Security Top 10 issues
-- Focused on authentication flaws, rate limiting, OTP abuse, and user enumeration
-
-**Tech:** Postman, OWASP ZAP, API Security
+- NLP-based vulnerability prioritization
+- ML-assisted severity classification
+- Automated remediation guidance
+- AI-augmented security tooling
+- Data-driven security workflows
 
 ---
 
-## 🧰 Technical Skills
+## Technical Stack
 
-**Programming & Scripting**  
-Python, C/C++, JavaScript, SQL
+### Programming Languages
+```
+Python · C/C++ · JavaScript · SQL
+```
 
-**Cybersecurity & Forensics**  
-Snort IDS, Wireshark, OWASP ZAP, Postman, Volatility, Autopsy, Ghidra, WinHex, Registry Explorer, Flare VM
+### Security and Forensics
+```
+Snort · Wireshark · OWASP ZAP · Postman
+Volatility · Autopsy · Ghidra · WinHex
+Registry Explorer · Flare VM
+```
 
-**AI & Automation**  
-NLP (BERT, SBERT), ML Pipelines, OpenAI API, TensorFlow
+### AI, ML, and Automation
+```
+TensorFlow · NLP (BERT / SBERT)
+OpenAI API · ML Pipelines
+```
 
-**Web, DevOps & Infrastructure**  
-Node.js, React.js, Express.js, OAuth, Docker, GitHub Actions
-
----
-
-## 🎓 Certifications
-
-- CompTIA PenTest+ (PT0-002)  
-- Cisco Ethical Hacking  
-- Google Cybersecurity Certificate  
-
----
-
-## 📌 Interests
-
-- Defensive Security Engineering  
-- Security Research & Threat Analysis  
-- AI-Augmented Cybersecurity  
-- Scalable Detection Systems  
+### Web, DevOps, and Infrastructure
+```
+Node.js · React · Express · OAuth
+Docker · GitHub Actions · Linux
+```
 
 ---
 
-## 📫 Connect
+## Professional Highlights
 
-- LinkedIn: https://www.linkedin.com/in/areejzeb  
-- Email: areejzeb04@gmail.com
+- Designed and implemented defensive security tooling for real-world threat scenarios
+- Integrated AI and NLP models into vulnerability analysis pipelines
+- Applied distributed systems concepts to traffic anomaly detection
+- Experience across both offensive testing and defensive engineering
+
+---
+
+## Certifications
+
+- CompTIA PenTest+ (PT0-002)
+- Cisco Ethical Hacking
+- Google Cybersecurity Certificate
+
+---
+
+## Current Focus
+
+- Security automation and detection engineering
+- AI-assisted vulnerability analysis
+- Scalable monitoring and alerting systems
+- Improving signal-to-noise ratio in security operations
+
+---
+
+## Connect
+
+I’m interested in discussions around cybersecurity engineering, threat detection, and applied AI in security.
