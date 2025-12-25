@@ -1,91 +1,118 @@
 <!--
-  GH Profile README
-  Designed for Cybersecurity + AI Focus
-  Visually structured and developer-oriented
+  Areej Zeb — Cybersecurity & AI Engineer
+  Modern and visually structured GitHub profile
 -->
 
-# Areej Zeb
+<!-- Animated Name Header (Futuristic AI Typewriter) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=60&duration=3000&pause=1000&color=00bfff&center=true&vCenter=true&lines=AREEJ+ZEB;Cybersecurity+%26+AI+Engineer"
+    alt="Animated AI Name"
+  >
+</p>
 
-Cybersecurity Engineer | Security Automation | AI-Driven Defense Systems
+<p align="center">
+Cybersecurity Engineer · AI-Augmented Security Systems Designer · Threat Detection Innovator
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/areejzeb) • [Email](mailto:areejzeb04@gmail.com) • [GitHub](https://github.com/Areej-zeb)
+<p align="center">
+  <a href="https://www.linkedin.com/in/areejzeb">LinkedIn</a> •
+  <a href="mailto:areejzeb04@gmail.com">Email</a> •
+  <a href="https://github.com/Areej-zeb">GitHub</a>
+</p>
 
 ---
 
-## Technologies & Domains
+## 🌐 GitHub Stats
 
-### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)](https://isocpp.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)](https://developer.mozilla.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Areej-zeb&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areej-zeb&theme=dark&layout=compact" alt="Top Languages">
+</p>
 
-### Security & Tools
+---
+
+## 🧠 Skills & Technologies
+
+### 🧪 Programming & Core Development
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)]()
+
+### 🛡️ Security & Forensics
 [![Snort](https://img.shields.io/badge/Snort-252525?style=flat)]()
 [![Wireshark](https://img.shields.io/badge/Wireshark-1A2A33?style=flat)]()
 [![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0F2439?style=flat)]()
-[![Volatility](https://img.shields.io/badge/Volatility-000000?style=flat)]()
 [![Ghidra](https://img.shields.io/badge/Ghidra-F2F2F2?style=flat&logo=ghidra)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)]()
 
-### AI & Data
+### 🤖 AI / Machine Learning & Automation
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)]()
-[![NLP](https://img.shields.io/badge/NLP-B000B5?style=flat)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)]()
 [![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai)]()
+[![NLP](https://img.shields.io/badge/NLP-B000B5?style=flat)]()
 [![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-6F42C1?style=flat)]()
 
-### DevOps & Deployment
+### ☁️ DevOps & Deployment
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)]()
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)]()
 
 ---
 
-## Focus Areas
+## 🔍 Focus Areas
 
-| Defensive Engineering         | Offensive Assessment            | AI & Automation                  |
-|------------------------------|--------------------------------|----------------------------------|
-| Intrusion Detection Systems  | API Security Testing           | NLP Vulnerability Ranking        |
-| Network Traffic Analysis     | Penetration Testing Practices  | Automated Remediation            |
-| SIEM Concepts & Alerts       | Web API Abuse Discovery        | AI-Augmented Detection Models    |
-| Incident Analysis            | Rate Limiting & Enumeration    | AI Tooling Integration           |
+### Artificial Intelligence in Cybersecurity
+- NLP-based threat and vulnerability classification  
+- AI-assisted severity scoring and prioritization  
+- Machine learning integration into security tooling  
+- Automated remediation guidance  
+- Adaptive anomaly detection
 
----
+### Defensive Engineering
+- Intrusion detection systems (IDS)  
+- Network traffic analysis and monitoring  
+- SIEM alerting and behavioral baselines  
+- Incident enrichment and automation
 
-## Featured Projects (Pinned)
-
-> These repos represent work that aligns with my core focus areas.  
-> Full details are inside each repository.
-
-📌 **Security Tooling & Threat Detection:**  
-- *AI-Driven Vulnerability Prioritization System*  
-- *Enterprise Threat Detection Platform (Aegis)*  
-- *Distributed Anomaly Detection (DDoS <-> MPI)*  
-
-📌 **Security & API Labs:**  
-- *OWASP API Vulnerability Lab*  
-- *Security Automation Scripts & Toolchains*
+### Offensive Testing & Assessment
+- API and web attack surface analysis  
+- OWASP API Top 10 evaluation  
+- Authentication abuse discovery  
+- Compliance and security exposure reviews
 
 ---
 
-## Professional Snapshot
+## 📌 Professional Highlights
 
-**Security Engineering:** Design and build tools for network and API defense.  
-**Automation:** Create repeatable workflows that reduce manual overhead.  
-**AI in Security:** Use machine learning and NLP to elevate security analysis.
-
----
-
-## Certifications
-
-- CompTIA PenTest+ (PT0-002)  
-- Cisco Ethical Hacking  
-- Google Cybersecurity Certificate
+- Designed AI-augmented vulnerability prioritization systems  
+- Built automated security tooling and remediation pipelines  
+- Integrated ML models into defensive architectures  
+- Applied defensive and offensive techniques across real environments
 
 ---
 
-## Let’s Connect
+## 📁 Featured Repositories
 
-I welcome conversations on security tooling, threat detection, AI in defense, and collaborative research.
+Below are repositories that highlight key areas of work:
+- **Security Automation & Tooling**
+- **AI-Assisted Threat Systems**
+- **Distributed Detection Engines**
+- **OWASP API Security Frameworks**
 
-[LinkedIn](https://www.linkedin.com/in/areejzeb) • areejzeb04@gmail.com
+*(Pinned on GitHub for quick access.)*
+
+---
+
+## ✨ Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/Areej-zeb/count.svg)
+
+---
+
+## 📫 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/areejzeb  
+Email: areejzeb04@gmail.com  
+
