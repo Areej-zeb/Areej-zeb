@@ -1,103 +1,91 @@
+<!--
+  GH Profile README
+  Designed for Cybersecurity + AI Focus
+  Visually structured and developer-oriented
+-->
+
 # Areej Zeb
 
-Cybersecurity · Security Automation · AI for Cyber Defense
+Cybersecurity Engineer | Security Automation | AI-Driven Defense Systems
 
-LinkedIn: https://www.linkedin.com/in/areejzeb  
-Email: areejzeb04@gmail.com  
-GitHub: https://github.com/Areej-zeb
+[LinkedIn](https://www.linkedin.com/in/areejzeb) • [Email](mailto:areejzeb04@gmail.com) • [GitHub](https://github.com/Areej-zeb)
 
 ---
 
-## Overview
+## Technologies & Domains
 
-I focus on building defensive security systems, automating security workflows, and applying AI to practical cybersecurity problems.
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)](https://isocpp.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)](https://developer.mozilla.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com)
 
-My interests span threat detection, API security, vulnerability assessment, and scalable detection pipelines, with an emphasis on clean, auditable implementations.
+### Security & Tools
+[![Snort](https://img.shields.io/badge/Snort-252525?style=flat)]()
+[![Wireshark](https://img.shields.io/badge/Wireshark-1A2A33?style=flat)]()
+[![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0F2439?style=flat)]()
+[![Volatility](https://img.shields.io/badge/Volatility-000000?style=flat)]()
+[![Ghidra](https://img.shields.io/badge/Ghidra-F2F2F2?style=flat&logo=ghidra)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)]()
 
----
+### AI & Data
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)]()
+[![NLP](https://img.shields.io/badge/NLP-B000B5?style=flat)]()
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai)]()
+[![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-6F42C1?style=flat)]()
 
-## Security Domains
-
-### Defensive Security
-- Intrusion Detection Systems (IDS)
-- Network Traffic Analysis
-- Threat Detection and Alerting
-- Security Monitoring (SIEM concepts)
-- Incident Analysis
-
-### Offensive and Assessment
-- Vulnerability Assessment and Penetration Testing
-- API Security (OWASP API Top 10)
-- Authentication and OTP Abuse Testing
-- Rate Limiting and Enumeration Analysis
-- Security Audits and Compliance Exposure
-
----
-
-## AI in Cybersecurity
-
-- NLP-based vulnerability prioritization
-- ML-assisted severity classification
-- Automated remediation guidance
-- AI-augmented security tooling
-- Data-driven security workflows
+### DevOps & Deployment
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)]()
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)]()
 
 ---
 
-## Technical Stack
+## Focus Areas
 
-### Programming Languages
-```
-Python · C/C++ · JavaScript · SQL
-```
-
-### Security and Forensics
-```
-Snort · Wireshark · OWASP ZAP · Postman
-Volatility · Autopsy · Ghidra · WinHex
-Registry Explorer · Flare VM
-```
-
-### AI, ML, and Automation
-```
-TensorFlow · NLP (BERT / SBERT)
-OpenAI API · ML Pipelines
-```
-
-### Web, DevOps, and Infrastructure
-```
-Node.js · React · Express · OAuth
-Docker · GitHub Actions · Linux
-```
+| Defensive Engineering         | Offensive Assessment            | AI & Automation                  |
+|------------------------------|--------------------------------|----------------------------------|
+| Intrusion Detection Systems  | API Security Testing           | NLP Vulnerability Ranking        |
+| Network Traffic Analysis     | Penetration Testing Practices  | Automated Remediation            |
+| SIEM Concepts & Alerts       | Web API Abuse Discovery        | AI-Augmented Detection Models    |
+| Incident Analysis            | Rate Limiting & Enumeration    | AI Tooling Integration           |
 
 ---
 
-## Professional Highlights
+## Featured Projects (Pinned)
 
-- Designed and implemented defensive security tooling for real-world threat scenarios
-- Integrated AI and NLP models into vulnerability analysis pipelines
-- Applied distributed systems concepts to traffic anomaly detection
-- Experience across both offensive testing and defensive engineering
+> These repos represent work that aligns with my core focus areas.  
+> Full details are inside each repository.
+
+📌 **Security Tooling & Threat Detection:**  
+- *AI-Driven Vulnerability Prioritization System*  
+- *Enterprise Threat Detection Platform (Aegis)*  
+- *Distributed Anomaly Detection (DDoS <-> MPI)*  
+
+📌 **Security & API Labs:**  
+- *OWASP API Vulnerability Lab*  
+- *Security Automation Scripts & Toolchains*
+
+---
+
+## Professional Snapshot
+
+**Security Engineering:** Design and build tools for network and API defense.  
+**Automation:** Create repeatable workflows that reduce manual overhead.  
+**AI in Security:** Use machine learning and NLP to elevate security analysis.
 
 ---
 
 ## Certifications
 
-- CompTIA PenTest+ (PT0-002)
-- Cisco Ethical Hacking
+- CompTIA PenTest+ (PT0-002)  
+- Cisco Ethical Hacking  
 - Google Cybersecurity Certificate
 
 ---
 
-## Current Focus
+## Let’s Connect
 
-- Security automation and detection engineering
-- AI-assisted vulnerability analysis
-- Scalable monitoring and alerting systems
-- Improving signal-to-noise ratio in security operations
+I welcome conversations on security tooling, threat detection, AI in defense, and collaborative research.
 
----
-
-## Connect
-
-I’m interested in discussions around cybersecurity engineering, threat detection, and applied AI in security.
+[LinkedIn](https://www.linkedin.com/in/areejzeb) • areejzeb04@gmail.com
