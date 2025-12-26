@@ -1,18 +1,86 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+
   <defs>
+    <!-- Background -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070A12"/>
       <stop offset="1" stop-color="#0B1022"/>
     </linearGradient>
-    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00E5FF" stroke-opacity="0.18" stroke-width="1"/>
+
+    <!-- Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40"
+            fill="none"
+            stroke="#00E5FF"
+            stroke-opacity="0.18"
+            stroke-width="1"/>
     </pattern>
-    <radialGradient id="glow" cx="50%" cy="45%" r="70%">
-      <stop offset="0" stop-color="#B400FF" stop-opacity="0.18"/>
+
+    <!-- Glow -->
+    <radialGradient id="glow" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#B400FF" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
+
+    <!-- Text Glow -->
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Typewriter Mask -->
+    <clipPath id="typeMask">
+      <rect x="350" y="50" width="0" height="90">
+        <animate
+          attributeName="width"
+          from="0"
+          to="500"
+          dur="3s"
+          begin="0s"
+          repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+
   </defs>
+
+  <!-- Background layers -->
   <rect width="1200" height="220" fill="url(#bg)"/>
-  <rect width="1200" height="220" fill="url(#p)"/>
+  <rect width="1200" height="220" fill="url(#grid)"/>
   <rect width="1200" height="220" fill="url(#glow)"/>
+
+  <!-- Typed Name -->
+  <g clip-path="url(#typeMask)">
+    <text x="600" y="120"
+          text-anchor="middle"
+          font-family="Orbitron, monospace"
+          font-size="72"
+          letter-spacing="6"
+          fill="#EAF7FF"
+          filter="url(#textGlow)">
+      AREEJ ZEB
+    </text>
+  </g>
+
+  <!-- Cursor -->
+  <rect x="850" y="70" width="4" height="60" fill="#00E5FF">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.9s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtitle -->
+  <text x="600" y="165"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="18"
+        letter-spacing="2"
+        fill="#9EDFFF">
+    CYBERSECURITY · AI · FULL-STACK
+  </text>
+
 </svg>
